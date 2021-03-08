@@ -12,4 +12,6 @@ In this reopsitory, you will find the solution and implementation of using a num
 Finite Differences that will help us to solve the Heat difussion problem with boundaries that are
 Dirichlet type and Neumann type or even a mixed of those previous one.
 
+![a](https://user-images.githubusercontent.com/63176184/110273337-01f94c00-7f92-11eb-96be-cf50f7595750.png)
+
 
